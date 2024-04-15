@@ -5,7 +5,7 @@
 
 - 💻 Tech Stack: **Next JS, React JS, TypeScript etc.**
 
-- 📄 Read my CV [https://flowcv.com/resume/jvm86gvafp](https://flowcv.com/resume/jvm86gvafp)
+- 📄 Check out my CV [https://flowcv.com/resume/jvm86gvafp](https://flowcv.com/resume/jvm86gvafp)
 
 <h3 align="left">📫 You can reach me via:</h3>
 <p align="left">
