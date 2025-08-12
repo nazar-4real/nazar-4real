@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazar Marusyk</h1>
-<h3 align="center">Middle Front-End Developer</h3>
+<h3 align="center">Senior Front-End Engineer(React JS / Next JS)</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nazar-4real](https://github.com/nazar-4real)
 
-- 💻 Tech Stack: **Next JS/React JS, TypeScript, REST API etc.**
+- 💻 Tech Stack: **Next JS/React JS, TypeScript, Redux Toolkit(RTK Query), REST API etc.**
 
 - 📄 Check out my CV [https://flowcv.com/resume/jvm86gvafp](https://flowcv.com/resume/jvm86gvafp)
 
