@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nazar-4real](https://github.com/nazar-4real)
 
-- 💻 Tech Stack: **Next JS/React JS, TypeScript, Redux Toolkit(RTK Query), REST API etc.**
+- 💻 Tech Stack: **React JS/Next JS, TypeScript, Redux Toolkit/RTK Query, Zustand, TanStack Query, shadcn, Tailwind, etc.**
 
 - 📄 Check out my CV [https://flowcv.com/resume/jvm86gvafp](https://flowcv.com/resume/jvm86gvafp)
 
